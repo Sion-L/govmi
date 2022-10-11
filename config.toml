@@ -1,0 +1,17 @@
+[test]
+resourcePool = "/firecloud/host/192.168.111.3/Resources"    # v.InventoryPath -> 0
+dataStore = "Data"      # v.Name() -> 0
+Folder = "/firecloud/vm/Discovered virtual machine"     # v.InventoryPath -> 1
+Network = "/firecloud/network/VM Network"    # v.InventoryPath  -> 11
+
+[security]
+resourcePool = 1    #
+dataStore = 2
+Folder = 3
+Network = 4
+
+[default]
+resourcePool = 1
+dataStore = 2
+Folder = 3
+Network = 4

@@ -1,0 +1,285 @@
+﻿宿主机,虚拟机,系统,IP地址
+蜜罐代理-89,CentOS 7 (64-bit),,2022-08-29 02:03:35.578691 +0000 UTC
+t Windows Server 2016 (64-bit),,guestToolsNotRunning
+堡垒机,CentOS 7 (64-bit),,guestToolsNotRunning
+ops,CentOS 7 (64-bit),192.168.110.238,guestToolsRunning
+悬镜安全BAS,CentOS 7 (64-bit),,guestToolsNotRunning
+hz-entry,CentOS 7 (64-bit),,guestToolsNotRunning
+gitlab-runner2,CentOS 7 (64-bit),192.168.110.169,guestToolsRunning
+es2-126,CentOS 7 (64-bit),,guestToolsNotRunning
+agent升级测试-104网段,CentOS 7 (64-bit),192.168.104.44,guestToolsRunning
+openvpn,CentOS 7 (64-bit),192.168.110.95,guestToolsRunning
+爱块,Ubuntu Linux (64-bit),,guestToolsNotRunning
+蜜罐代理-88,CentOS 7 (64-bit),,guestToolsNotRunning
+gitlab-runner1,CentOS 7 (64-bit),192.168.110.217,guestToolsRunning
+es,CentOS 7 (64-bit),,guestToolsNotRunning
+redis-cluster03-83,CentOS 7 (64-bit),192.168.110.83,guestToolsRunning
+ansible,CentOS 7 (64-bit),192.168.110.121,guestToolsRunning
+hz-server,Oracle Linux 7 (64-bit),,guestToolsNotRunning
+hz-client,CentOS 7 (64-bit),,guestToolsNotRunning
+jira,CentOS 7 (64-bit),,guestToolsNotRunning
+vm-jumpserver,Ubuntu Linux (64-bit),192.168.100.221,guestToolsRunning
+win-2016-105,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+redis-cluster02-82,CentOS 7 (64-bit),192.168.110.82,guestToolsRunning
+多网段堡垒机,Ubuntu Linux (64-bit),192.168.110.209,guestToolsRunning
+redis-cluster01-81,CentOS 7 (64-bit),192.168.110.81,guestToolsRunning
+生产k8s远程机器,CentOS 7 (64-bit),,guestToolsNotRunning
+智安竞品,Ubuntu Linux (64-bit),,guestToolsNotRunning
+二期-win10-03,Microsoft Windows 10 (64-bit),,guestToolsNotRunning
+2.2-测试,CentOS 7 (64-bit),192.168.110.181,guestToolsRunning
+二期-ubuntu03,Ubuntu Linux (64-bit),192.168.106.19,guestToolsRunning
+zhoulei,CentOS 7 (64-bit),,guestToolsNotRunning
+二期-ubuntu04,Ubuntu Linux (64-bit),192.168.106.20,guestToolsRunning
+v2.2-win2016,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+二期-debian9,Debian GNU/Linux 9 (64-bit),,guestToolsNotRunning
+suse11,SUSE Linux Enterprise 11 (64-bit),,guestToolsNotRunning
+漏洞复测-ubuntu16-02,Ubuntu Linux (64-bit),192.168.106.32,guestToolsRunning
+二期-ubuntu01,Ubuntu Linux (64-bit),172.25.0.1,guestToolsRunning
+安全堡垒机01,Ubuntu Linux (64-bit),192.168.106.35,guestToolsRunning
+二期-ubuntu05,Ubuntu Linux (64-bit),172.18.0.1,guestToolsRunning
+ubuntu20-沙箱,Ubuntu Linux (64-bit),192.168.110.109,guestToolsRunning
+漏洞复测-ubuntu16-01,Ubuntu Linux (64-bit),192.168.106.31,guestToolsRunning
+测试106段机器,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+安全研究入侵检测-136,Ubuntu Linux (64-bit),192.168.110.136,guestToolsRunning
+二期-suse12,SUSE Linux Enterprise 12 (64-bit),192.168.106.13,guestToolsRunning
+jenkins-agent,CentOS 7 (64-bit),192.168.110.132,guestToolsRunning
+二期-suse15-leap,SUSE Linux Enterprise 15 (64-bit),fe80::250:56ff:fe88:e13f,guestToolsRunning
+安全堡垒机模板,Ubuntu Linux (64-bit),,guestToolsNotRunning
+弱口令漏洞环境-windows,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+二期-win10-04,Microsoft Windows 10 (64-bit),,guestToolsNotRunning
+二期-ubuntu-15,Ubuntu Linux (64-bit),192.168.106.15,guestToolsRunning
+二期-win2012,Microsoft Windows Server 2012 (64-bit),,guestToolsNotRunning
+二期-win10-01,Microsoft Windows 10 (64-bit),,guestToolsNotRunning
+二期-centos8-48,CentOS 8 (64-bit),192.168.106.9,guestToolsRunning
+二期-ubuntu06,Ubuntu Linux (64-bit),192.168.106.22,guestToolsRunning
+二期-debian8,Debian GNU/Linux 8 (64-bit),,guestToolsNotRunning
+二期-debian11,Debian GNU/Linux 11 (64-bit),,guestToolsNotRunning
+二期-win2019-187,Microsoft Windows Server 2019 (64-bit),,guestToolsNotRunning
+主机漏洞测试,Microsoft Windows 7 (64-bit),,guestToolsNotRunning
+二期-win8-113,Microsoft Windows 8.x (64-bit),,guestToolsNotRunning
+漏洞复测-ubuntu16-03,Ubuntu Linux (64-bit),192.168.106.33,guestToolsRunning
+二期-debian10,Debian GNU/Linux 10 (64-bit),,guestToolsNotRunning
+v2.2-win7,Microsoft Windows 7 (64-bit),,guestToolsNotRunning
+大数据04,Ubuntu Linux (64-bit),192.168.110.151,guestToolsRunning
+Gateway,Ubuntu Linux (64-bit),,guestToolsNotRunning
+suseT,SUSE Linux Enterprise 12 (64-bit),,guestToolsNotRunning
+v2.2-centos7,CentOS 7 (64-bit),,guestToolsNotRunning
+漏洞环境机器,CentOS 7 (64-bit),192.168.106.17,guestToolsRunning
+安全堡垒机02,Ubuntu Linux (64-bit),192.168.106.36,guestToolsRunning
+ubuntu14,Ubuntu Linux (64-bit),,guestToolsNotRunning
+二期-win10-02,Microsoft Windows 10 (64-bit),,guestToolsNotRunning
+二期-ubuntu-big,Ubuntu Linux (64-bit),192.168.110.40,guestToolsRunning
+v2.2-redhat7,Red Hat Enterprise Linux 7 (64-bit),,guestToolsNotRunning
+agent升级测试-106网段,CentOS 7 (64-bit),,guestToolsNotRunning
+陆峰,CentOS 7 (64-bit),192.168.110.164,guestToolsRunning
+二期-ubuntu02,Ubuntu Linux (64-bit),192.168.106.18,guestToolsRunning
+二期-win2003,Microsoft Windows Server 2003 (64-bit),,guestToolsNotRunning
+弱口令漏洞环境-linux,CentOS 7 (64-bit),192.168.106.151,guestToolsRunning
+hadoopslave01-186,Ubuntu Linux (64-bit),192.168.111.186,guestToolsRunning
+virusslave01-176,Ubuntu Linux (64-bit),192.168.111.176,guestToolsRunning
+agentdcp2-34,CentOS 7 (64-bit),192.168.110.34,guestToolsRunning
+agentdcp-26,CentOS 7 (64-bit),192.168.110.26,guestToolsRunning
+cs-2016-WebSphere,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+cs-centos-logic10,CentOS 7 (64-bit),,guestToolsNotRunning
+test-win2016,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+xiaoshuxiang-centos7,CentOS 7 (64-bit),,guestToolsNotRunning
+86-copy,CentOS 7 (64-bit),,guestToolsNotRunning
+test-rhel-8.4,Red Hat Enterprise Linux 8 (64-bit),,guestToolsNotRunning
+test-ubuntu17,Ubuntu Linux (64-bit),,guestToolsNotRunning
+Linux-agent3-15,CentOS 7 (64-bit),192.168.110.15,guestToolsRunning
+ubuntu18.04,Ubuntu Linux (64-bit),,guestToolsNotRunning
+cs-centos-nginx htpd tmct,CentOS 7 (64-bit),,guestToolsNotRunning
+cs-2016-jboss6,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+jianrong-centos7 219-zhong勿停,CentOS 7 (64-bit),,guestToolsNotRunning
+jianrong-ubuntu14 74,Ubuntu Linux (64-bit),,guestToolsNotRunning
+test-ubuntu16,Ubuntu Linux (64-bit),,guestToolsNotRunning
+jianrong-ubuntu18 80,Ubuntu Linux (64-bit),192.168.110.80,guestToolsRunning
+cs-centos-logic12,CentOS 7 (64-bit),,guestToolsNotRunning
+jianrong-opensuseT 124,SUSE Linux Enterprise 12 (64-bit),,guestToolsNotRunning
+test-ubuntu20 desktop,Ubuntu Linux (64-bit),,guestToolsNotRunning
+fedora34-template,Red Hat Fedora (64-bit),,guestToolsNotRunning
+cs-ubuntu20 desktop-websphere,Ubuntu Linux (64-bit),,guestToolsNotRunning
+agentlxy-28,CentOS 7 (64-bit),192.168.110.28,guestToolsRunning
+jianrong-opensuse15 192,SUSE Linux Enterprise 15 (64-bit),192.168.110.192,guestToolsRunning
+堡垒机3-178,CentOS 7 (64-bit),192.168.110.178,guestToolsRunning
+jianrong-win8 182,Microsoft Windows 8.x (64-bit),,guestToolsNotRunning
+jianrong-win2019 57,Microsoft Windows Server 2019 (64-bit),,guestToolsNotRunning
+cs-centos-logic10 boss6,CentOS 7 (64-bit),,guestToolsNotRunning
+cs-2016-tomcat,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+test-rhel7,Red Hat Enterprise Linux 7 (64-bit),,guestToolsNotRunning
+jianrong-debian11,Debian GNU/Linux 11 (64-bit),192.168.110.168,guestToolsRunning
+蜜罐-袁子波-测试01,CentOS 7 (64-bit),,guestToolsNotRunning
+jianrong-win2012 55,Microsoft Windows Server 2012 (64-bit),,guestToolsNotRunning
+提权验收,Microsoft Windows Server 2008 R2 (64-bit),,guestToolsNotRunning
+bljfsj-21,CentOS 7 (64-bit),192.168.110.21,guestToolsRunning
+ceshi-baolei-centos-4c 8G,CentOS 7 (64-bit),,guestToolsNotRunning
+cs-2016-logic10,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+jianrong-opensuse11-237,SUSE Linux Enterprise 11 (64-bit),,guestToolsNotRunning
+jianrong-debian10 179,Debian GNU/Linux 10 (64-bit),,guestToolsNotRunning
+堡垒机1-211,CentOS 7 (64-bit),192.168.110.211,guestToolsRunning
+windows-agent1,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+cs-2016-apache,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+cs-堡垒机-98,CentOS 7 (64-bit),,guestToolsNotRunning
+jianrong-fedora33-228,Red Hat Fedora (64-bit),192.168.110.228,guestToolsRunning
+jianrong-redhat7 77,Red Hat Enterprise Linux 7 (64-bit),,guestToolsNotRunning
+Linux-agent1-20,CentOS 7 (64-bit),192.168.110.20,guestToolsRunning
+cs-centos-Nginx htpd tmct jety,CentOS 7 (64-bit),,guestToolsNotRunning
+cs-win-agent模板,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+jianrong-centos6 175,CentOS 6 (64-bit),,guestToolsNotRunning
+2021kali,Ubuntu Linux (64-bit),,guestToolsNotRunning
+fedora33-template,Red Hat Fedora (64-bit),,guestToolsNotRunning
+cs-2016-logic12,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+cs-centos-nginx,CentOS 7 (64-bit),,guestToolsNotRunning
+windowsagentfsj,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+windowsagentlxy,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+堡垒机4-193,CentOS 7 (64-bit),192.168.110.193,guestToolsRunning
+cs-2016-jetty,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+test-win2019,Microsoft Windows Server 2019 (64-bit),,guestToolsNotRunning
+cs-centos-jboss7,CentOS 7 (64-bit),,guestToolsNotRunning
+cs-centos-nginx htpd,CentOS 7 (64-bit),,guestToolsNotRunning
+bljnzq-24,CentOS 7 (64-bit),,guestToolsNotRunning
+windows-agent3,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+cs-centos-logic10  logic12 boss6,CentOS 7 (64-bit),,guestToolsNotRunning
+堡垒机2-172,CentOS 7 (64-bit),192.168.110.172,guestToolsRunning
+大数据迁移,Ubuntu Linux (64-bit),192.168.110.189,guestToolsRunning
+debian11-template,Debian GNU/Linux 11 (64-bit),,guestToolsNotRunning
+Linux-agent2-13,CentOS 7 (64-bit),192.168.110.13,guestToolsRunning
+jianrong-fedora34-226,Red Hat Fedora (64-bit),192.168.110.226,guestToolsRunning
+centos6-new,CentOS 6 (64-bit),,guestToolsNotRunning
+windows-agent4,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+jianrong-windows2008,Microsoft Windows Server 2008 (64-bit),,guestToolsNotRunning
+jianrong-win10 152,Microsoft Windows 10 (64-bit),,guestToolsNotRunning
+cs-linux模板14,CentOS 7 (64-bit),,guestToolsNotRunning
+bljdcp-22,CentOS 7 (64-bit),192.168.110.22,guestToolsRunning
+windows-agent2,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+jianrong-debian8 156,Debian GNU/Linux 8 (64-bit),,guestToolsNotRunning
+bljlxy-23,CentOS 7 (64-bit),192.168.110.23,guestToolsRunning
+anquan-Ubuntu01文服机器,Ubuntu Linux (64-bit),192.168.110.180,guestToolsRunning
+windowsagentdcp,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+jianrong-centos8 173,CentOS 8 (64-bit),192.168.110.173,guestToolsRunning
+Linux-agent4-19,CentOS 7 (64-bit),192.168.110.19,guestToolsRunning
+堡垒机test,Ubuntu Linux (64-bit),,guestToolsNotRunning
+agentnzq-32,CentOS 7 (64-bit),192.168.110.32,guestToolsRunning
+jianrong-win2008R2  46,Microsoft Windows Server 2008 R2 (64-bit),,guestToolsNotRunning
+jianrong-ubuntu20-125,Ubuntu Linux (64-bit),192.168.110.125,guestToolsRunning
+windowsagentnzq,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+jianrong-win7-1 171,Microsoft Windows 7 (64-bit),,guestToolsNotRunning
+test-ubuntu18-01,Ubuntu Linux (64-bit),,guestToolsNotRunning
+agentfsj-25,CentOS 7 (64-bit),192.168.110.25,guestToolsRunning
+cs-2016-jboss7,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+cs-2016-nginx,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+jianrong-redhat6-234,Red Hat Enterprise Linux 6 (64-bit),,guestToolsNotRunning
+win10-192.168.110.8,Microsoft Windows 10 (64-bit),,guestToolsNotRunning
+尚付05,CentOS 7 (64-bit),,guestToolsNotRunning
+弱口令漏洞测试环境-windows,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+ubuntu16,Ubuntu Linux (64-bit),192.168.110.2,guestToolsRunning
+192.168.110.77-suse11,SUSE Linux Enterprise 11 (64-bit),,guestToolsNotRunning
+192.168.111.20 lxy-blj-线上,CentOS 7 (64-bit),,guestToolsNotRunning
+弱口令漏洞测试环境-linux,CentOS 7 (64-bit),192.168.111.17,guestToolsRunning
+192.168.111.60,CentOS 7 (64-bit),,guestToolsNotRunning
+蜜罐03,CentOS 7 (64-bit),192.168.110.89,guestToolsRunning
+win10-192.168.110.5,Microsoft Windows 10 (64-bit),,guestToolsNotRunning
+蜜罐04,CentOS 7 (64-bit),10.188.199.1,guestToolsRunning
+suse11-template,SUSE Linux Enterprise 11 (64-bit),,guestToolsNotRunning
+192.168.111.30,CentOS 7 (64-bit),,guestToolsNotRunning
+t-redis03,CentOS 7 (64-bit),192.168.110.163,guestToolsRunning
+蜜罐02,CentOS 7 (64-bit),192.168.110.88,guestToolsRunning
+蜜罐05,CentOS 7 (64-bit),10.188.199.1,guestToolsRunning
+t-redis01,CentOS 7 (64-bit),192.168.110.160,guestToolsRunning
+蜜罐01,CentOS 7 (64-bit),192.168.110.86,guestToolsRunning
+openldap-02,CentOS 7 (64-bit),,guestToolsNotRunning
+debian8-template,Debian GNU/Linux 8 (64-bit),,guestToolsNotRunning
+cs-suse11,SUSE Linux Enterprise 11 (64-bit),,guestToolsNotRunning
+192.168.111.40,CentOS 7 (64-bit),,guestToolsNotRunning
+openldap-01,CentOS 7 (64-bit),,guestToolsNotRunning
+win-192.168.110.6,Microsoft Windows 10 (64-bit),,guestToolsNotRunning
+192.168.111.50,CentOS 7 (64-bit),,guestToolsNotRunning
+t-redis02,CentOS 7 (64-bit),192.168.110.162,guestToolsRunning
+redis-01,CentOS 8 (64-bit),192.168.110.241,guestToolsRunning
+kafka-01,CentOS 8 (64-bit),192.168.110.147,guestToolsRunning
+vm-wiki,Ubuntu Linux (64-bit),192.168.110.220,guestToolsRunning
+k8s-02,CentOS 7 (64-bit),,guestToolsNotRunning
+k8s-05,CentOS 7 (64-bit),,guestToolsNotRunning
+k8s-06,CentOS 7 (64-bit),,guestToolsNotRunning
+mysql-02,CentOS 8 (64-bit),192.168.110.236,guestToolsRunning
+k8s-07,CentOS 7 (64-bit),,guestToolsNotRunning
+etcd-03,CentOS 7 (64-bit),,guestToolsNotRunning
+k8s-04,CentOS 7 (64-bit),,guestToolsNotRunning
+etcd-02,CentOS 7 (64-bit),,guestToolsNotRunning
+redis-03,CentOS 8 (64-bit),192.168.110.243,guestToolsRunning
+vm-zhanglizhi-agent,CentOS 7 (64-bit),,guestToolsNotRunning
+redis-02,CentOS 8 (64-bit),192.168.110.242,guestToolsRunning
+vm-gitlab,Ubuntu Linux (64-bit),192.168.110.223,guestToolsRunning
+mongodb-02,CentOS 8 (64-bit),192.168.110.247,guestToolsRunning
+kafka-03,CentOS 8 (64-bit),192.168.110.53,guestToolsRunning
+k8s-01,CentOS 7 (64-bit),,guestToolsNotRunning
+k8s-03,CentOS 7 (64-bit),,guestToolsNotRunning
+kafka-02,CentOS 8 (64-bit),192.168.110.127,guestToolsRunning
+mongodb-01,CentOS 8 (64-bit),192.168.110.246,guestToolsRunning
+etcd-01,CentOS 7 (64-bit),,guestToolsNotRunning
+nfs,CentOS 7 (64-bit),,guestToolsNotRunning
+mongodb-03,CentOS 8 (64-bit),192.168.110.249,guestToolsRunning
+mysql-01,CentOS 8 (64-bit),192.168.110.235,guestToolsRunning
+尚付04-48,CentOS 7 (64-bit),192.168.110.48,guestToolsRunning
+尚付02-130,CentOS 7 (64-bit),192.168.110.130,guestToolsRunning
+大数据01,Ubuntu Linux (64-bit),192.168.110.144,guestToolsRunning
+dev-savapi,CentOS 7 (64-bit),,guestToolsNotRunning
+尚付01-110,CentOS 7 (64-bit),192.168.110.110,guestToolsRunning
+监控测试,CentOS 7 (64-bit),192.168.110.107,guestToolsRunning
+夏慈春-ubuntu2016,Ubuntu Linux (64-bit),192.168.110.142,guestToolsRunning
+wumiao-pc,Ubuntu Linux (64-bit),192.168.110.216,guestToolsRunning
+大数据,Ubuntu Linux (64-bit),,guestToolsNotRunning
+大数据03,Ubuntu Linux (64-bit),192.168.110.149,guestToolsRunning
+夏慈春-win2016,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+尚付03-47,CentOS 7 (64-bit),192.168.110.47,guestToolsRunning
+私有堡垒机,Ubuntu Linux (64-bit),192.168.110.45,guestToolsRunning
+test-savapi,CentOS 7 (64-bit),,guestToolsNotRunning
+大数据02,Ubuntu Linux (64-bit),192.168.110.146,guestToolsRunning
+hadoopmaster-back,Ubuntu Linux (64-bit),192.168.111.185,guestToolsRunning
+大数据出口-189,CentOS 7 (64-bit),192.168.111.189,guestToolsRunning
+hadoopslave03-188（病毒样本库从节点）,Ubuntu Linux (64-bit),192.168.111.188,guestToolsRunning
+剑幕,Ubuntu Linux (64-bit),192.168.111.15,guestToolsRunning
+es02-128,CentOS 7 (64-bit),192.168.110.128,guestToolsRunning
+es01-119,CentOS 7 (64-bit),192.168.110.119,guestToolsRunning
+ycd,CentOS 7 (64-bit),172.18.0.1,guestToolsRunning
+es03-133,CentOS 7 (64-bit),192.168.110.133,guestToolsRunning
+爬虫01-148,CentOS 7 (64-bit),192.168.110.148,guestToolsRunning
+爬虫02-153,CentOS 7 (64-bit),192.168.110.153,guestToolsRunning
+openwrt,Ubuntu Linux (64-bit),,guestToolsNotRunning
+hadoopslave02-187,Ubuntu Linux (64-bit),192.168.111.187,guestToolsRunning
+XDR开发机器-centos7-173,CentOS 7 (64-bit),192.168.110.224,guestToolsRunning
+spider-dev,CentOS 7 (64-bit),172.23.0.1,guestToolsRunning
+大数据-06-206,Ubuntu Linux (64-bit),192.168.110.206,guestToolsRunning
+k8s-11,CentOS 7 (64-bit),,guestToolsNotRunning
+k8s-12,CentOS 7 (64-bit),,guestToolsNotRunning
+2.1-Ai蓝军win-04,Microsoft Windows Server 2016 (64-bit),,guestToolsNotRunning
+2.1-Ai蓝军02,CentOS 7 (64-bit),,guestToolsNotRunning
+2.1-Ai蓝军01,CentOS 7 (64-bit),,guestToolsNotRunning
+kafka-loki,CentOS 7 (64-bit),,guestToolsNotRunning
+k8s-15,Ubuntu Linux (64-bit),,guestToolsNotRunning
+XDR开发机器-ubuntu-174,Ubuntu Linux (64-bit),192.168.110.174,guestToolsRunning
+k8s-13,CentOS 7 (64-bit),,guestToolsNotRunning
+k8s-14,CentOS 7 (64-bit),,guestToolsNotRunning
+k8s-node,CentOS 7 (64-bit),,guestToolsNotRunning
+2.1-Ai蓝军03,CentOS 7 (64-bit),,guestToolsNotRunning
+官网,CentOS 7 (64-bit),,guestToolsNotRunning
+virusslave02-177,Ubuntu Linux (64-bit),192.168.111.177,guestToolsRunning
+virusmaster-175,Ubuntu Linux (64-bit),192.168.111.175,guestToolsRunning
+virusslave03-数仓-178,Ubuntu Linux (64-bit),192.168.111.178,guestToolsRunning
+fort-download,CentOS 7 (64-bit),192.168.110.3,guestToolsRunning
+产品机器,CentOS 7 (64-bit),192.168.110.134,guestToolsRunning
+jenkins,CentOS 7 (64-bit),192.168.110.43,guestToolsRunning
+nexus,CentOS 7 (64-bit),192.168.110.135,guestToolsRunning
+禅道,CentOS 7 (64-bit),,guestToolsNotRunning
+k8s-08,CentOS 7 (64-bit),192.168.110.87,guestToolsRunning
+fort,CentOS 7 (64-bit),172.19.0.1,guestToolsRunning
+front-nginx,CentOS 7 (64-bit),,guestToolsNotRunning
+coredns,CentOS 7 (64-bit),192.168.110.244,guestToolsRunning
+k8s-09,CentOS 7 (64-bit),192.168.110.31,guestToolsRunning
+堡垒机-1,CentOS 7 (64-bit),,guestToolsNotRunning
+oracle,CentOS 7 (64-bit),192.168.110.61,guestToolsRunning
+sonar,CentOS 7 (64-bit),192.168.110.51,guestToolsRunning
+1c2g50g-centos7,CentOS 7 (64-bit),,guestToolsNotRunning
+agent-linux-1,CentOS 7 (64-bit),,guestToolsNotRunning
+VMware vCenter Server,Other 3.x or later Linux (64-bit),192.168.110.66,guestToolsRunning
+agent,CentOS 7 (64-bit),192.168.110.208,guestToolsRunning
