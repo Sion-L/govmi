@@ -1,5 +1,5 @@
 # 资源池
-resourcePools[0] -> 191\n
+resourcePools[0] -> 191 /n
 resourcePools[1] -> 191(测试机器)
 resourcePools[2] -> 192
 resourcePools[3] -> 116 
